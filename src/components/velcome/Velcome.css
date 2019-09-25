@@ -1,0 +1,12 @@
+#velcome {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#velcome h1 {
+  font-size: 36px;
+  margin-bottom: 30px;
+}

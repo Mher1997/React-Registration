@@ -1,0 +1,19 @@
+header {
+  height: 100px;
+  width: 100%;
+  background-color: #001529;
+  display: flex !important;
+  align-items: center;
+}
+header img {
+  width: 80px;
+}
+header #header-title {
+  width: 100%;
+}
+header #header-title h1 {
+  text-align: center;
+  color: #dedede;
+  margin-right: 80px;
+  margin-bottom: 0;
+}

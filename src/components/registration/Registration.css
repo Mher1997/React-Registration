@@ -1,0 +1,16 @@
+#registration {
+  width: 100%;
+  padding-top: 30px;
+}
+#registration > h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+#congrats {
+  width: 50%;
+  margin: 200px auto;
+  text-align: center;
+  box-shadow: 0 0 10px 0 #1890ff;
+  border-radius: 5px;
+  padding: 50px;
+}
