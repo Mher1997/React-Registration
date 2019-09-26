@@ -1,5 +1,6 @@
 #velcome {
-  width: 100%;
+  width: 90%;
+  margin: auto;
   height: 80vh;
   display: flex;
   justify-content: center;
@@ -9,4 +10,5 @@
 #velcome h1 {
   font-size: 36px;
   margin-bottom: 30px;
+  text-align: center;
 }
